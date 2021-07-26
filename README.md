@@ -1,6 +1,6 @@
 #### 个人世界观 FDU Project：个人小说等（可能会有配图，游戏等）
  
-### 设定文档
+## 设定文档
 
 # 1st 故事线
 
@@ -22,7 +22,7 @@
 
 -------  
 
-### 主线剧情
+## 主线剧情
 
 [序章](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/0.md)
 
