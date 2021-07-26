@@ -24,7 +24,6 @@
 
 ### 主线剧情
 
-# 序章
-[0](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/0.md)
+[序章](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/0.md)
 
 # 第一章（待更）
