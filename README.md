@@ -16,7 +16,7 @@
 
 [尧麟](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/welcome%20to%20FDU%20project/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3/%E5%B0%A7%E9%BA%9F.md)（主角）
 
-[尧麒](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/welcome%20to%20FDU%20project/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3/%E5%B0%A7%E9%BA%9F.md)
+[尧麒](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/welcome%20to%20FDU%20project/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3/%E5%B0%A7%E9%BA%92.md)
 
 #### 3rd 故事线
 
