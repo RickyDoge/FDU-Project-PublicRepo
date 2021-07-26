@@ -33,4 +33,5 @@
 ## 片段剧情
 
 [坚定前行，只为在孤独的寒冬中闪耀](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/%E7%9F%AD%E7%AF%87%E5%86%85%E5%AE%B9/%E5%9D%9A%E5%AE%9A%E5%89%8D%E8%A1%8C%EF%BC%8C%E5%8F%AA%E4%B8%BA%E5%9C%A8%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%AF%92%E5%86%AC%E4%B8%AD%E9%97%AA%E8%80%80.md)
+
 [百纳海川](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/%E7%9F%AD%E7%AF%87%E5%86%85%E5%AE%B9/%E7%99%BE%E7%BA%B3%E6%B5%B7%E5%B7%9D.md)
