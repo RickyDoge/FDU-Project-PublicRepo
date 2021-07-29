@@ -1,5 +1,7 @@
 ## 个人世界观 FDU Project：小说，配图，游戏，其它创作
 
+-------
+
 ## 主线剧情
 
 [序章](https://github.com/AriizumiKW/FDU-Project-PublicRepo/blob/main/0.md)
